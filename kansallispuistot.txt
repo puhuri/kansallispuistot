@@ -1,0 +1,199 @@
+Etelä-Konnevesi
+Kalaja opastustaulu
+ lat: 62° 35.4762'
+ lon: 26° 42.5272'
+
+Helvetinjärvi
+Haukanhieta
+ lat: 62° 1.4914'
+ lon: 23° 48.3479'
+
+Hossa
+Hossalaislampi pysäköintipaikka
+ lat: 65° 29.2077'
+ lon: 29° 24.2176'
+
+Hiidenportti
+Urpovaara P-Paikka
+ lat: 63° 53.6284'
+ lon: 29° 5.2371'
+
+Isojärvi
+Heretty pysäköintialue
+ lat: 61° 40.5115'
+ lon: 24° 59.8890'
+
+Itäinen Suomenlahti
+Hamina Tervasaari
+ lat: 60° 33.6275'
+ lon: 27° 10.9542'
+
+Kauhaneva-Pohjankangas
+Salomaa P-paikka
+ lat: 62° 11.6893'
+ lon: 22° 26.9694'
+
+Koli
+Koli pysäköintialue 2 ja 3
+ lat: 63° 5.6710'
+ lon: 29° 48.2029'
+
+Kolovesi
+Kirkkoranta P-alue inva
+ lat: 62° 14.2101'
+ lon: 28° 53.5978'
+
+Kurjenrahka
+Kurjenpesä pysäköintialue
+ lat: 60° 44.3836'
+ lon: 22° 24.9572'
+
+Lauhanvuori
+Lauhanvuoren pysäköintialue 1
+ lat: 62° 9.1325'
+ lon: 22° 11.2090'
+
+Leivonmäki
+Selänpohja pysäköintialue
+ lat: 61° 55.9770'
+ lon: 25° 58.8611'
+
+Lemmenjoki
+Njurkulahti pysäköintialue
+ lat: 68° 45.0984'
+ lon: 26° 13.2005'
+
+Liesjärvi
+Pirttilahti parkkipaikka
+ lat: 60° 40.9939'
+ lon: 23° 50.5861'
+
+Linnansaari
+P-alue
+ lat: 62° 6.7414'
+ lon: 28° 36.4660'
+
+Nuuksio
+Haukkalampi iso pysäköintialue
+ lat: 60° 18.5746'
+ lon: 24° 31.2503'
+
+Oulanka
+Oulangan luontokeskus
+ lat: 66° 22.1015'
+ lon: 29° 18.9017'
+
+Pallas-Yllästunturi
+Kellokkaan pysäköintialue
+ lat: 67° 35.3917'
+ lon: 24° 12.1809'
+
+Patvinsuo
+Luukangas pysäköintialue
+ lat: 63° 8.7722'
+ lon: 30° 39.4544'
+
+Perämeri
+Kemi Kalasatama
+ lat: 65° 40.4842'
+ lon: 24° 31.0312'
+
+Petkeljärvi
+Petraniemi pysäköitialue
+ lat: 62° 34.7347'
+ lon: 31° 10.5228'
+
+Puurijärvi ja Isosuo
+Kärjenkallio pysäköintialue
+ lat: 61° 16.8408'
+ lon: 22° 33.8862'
+
+Pyhä-Häkki
+Pyhä-häkki opastustaulu portilla
+ lat: 62° 51.0241'
+ lon: 25° 29.3407'
+
+Pyhä-Luosto
+Rykimäkeron parkkipaikan opastetaulu
+ lat: 67° 7.1394'
+ lon: 26° 58.8522'
+
+Päijänne
+Höysniemi P-paikka 2
+ lat: 61° 23.9138'
+ lon: 25° 24.1887'
+
+Repovesi
+Tervajärvi pysäköintialue
+ lat: 61° 9.3269'
+ lon: 26° 53.2087'
+
+Riisitunturi
+Riisitunturi parkkipaikka
+ lat: 66° 12.9364'
+ lon: 28° 35.2439'
+
+Rokua
+Keisarintie pysäköintialue
+ lat: 64° 32.9271'
+ lon: 26° 29.8467'
+
+Saaristomeri
+Sinisimpukka infotaulu
+ lat: 59° 55.3759'
+ lon: 22° 24.4419'
+
+Salamajärvi
+Huttukangas pysäköintialue
+ lat: 63° 14.5719'
+ lon: 24° 45.6619'
+
+Seitseminen
+Kovero pysäköintilaue
+ lat: 61° 54.8249'
+ lon: 23° 22.8564'
+
+Selkämeri
+Rauma
+ lat: 61° 7.6569'
+ lon: 21° 28.5287'
+
+Sipoonkorpi
+Bakunkärrin pysäköintialue
+ lat: 60° 18.1653'
+ lon: 25° 11.8498'
+
+Syöte
+Syötteen portti
+ lat: 65° 38.1571'
+ lon: 27° 36.5240'
+
+Tammisaaren saaristo
+Tammisaaren satama
+ lat: 59° 58.6414'
+ lon: 23° 26.0128'
+
+Teijo
+Laviakallion pysäköintialue
+ lat: 60° 15.2298'
+ lon: 22° 58.9075'
+
+Tillikkajärvi
+Sammakkotammi pysäköintialue
+ lat: 63° 37.3180'
+ lon: 28° 19.6693'
+
+Torronsuo
+Torronsuo levähdyspaikka
+ lat: 60° 44.2204'
+ lon: 23° 34.5956'
+
+Urho Kekkonen
+Kiilopää lähtöportti
+ lat: 68° 20.7882'
+ lon: 27° 27.7299'
+
+Valkmusa
+Valkmusa pysäköintialue
+ lat: 60° 34.3196'
+ lon: 26° 42.3131'
