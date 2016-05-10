@@ -1,0 +1,25 @@
+# Format: lat long file
+#
+
+DESCRIPTION  Simple file containing latitude and longitude separated by space
+EXTENSION               txt
+
+#
+# FILE LAYOUT DEFINITIIONS:
+#
+FIELD_DELIMITER TAB
+RECORD_DELIMITER NEWLINE
+BADCHARS ,"
+
+
+#
+# INDIVIDUAL DATA FIELDS, IN ORDER OF APPEARANCE:
+# NOTE: MS S&T ONLY IMPORTS DATA, IT DOESN'T 
+#       EXPORT THIS ANYWHERE SO WE CAN HAVE OUR 
+#       WAY WITH THE FORMATTING. 
+#
+IFIELD INDEX,"1","%d"
+IFIELD LAT_DECIMAL, "", "%f" # Latitude
+IFIELD LON_DECIMAL, "", "%f" # Longitude
+IFIELD SHORTNAME,"","%s" # Kansallispuisto
+IFIELD DESCRIPTION,"","%s" # Parkkipaikka
